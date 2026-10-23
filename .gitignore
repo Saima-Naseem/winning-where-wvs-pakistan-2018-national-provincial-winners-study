@@ -1,0 +1,20 @@
+# WVS data and files derived from it (not redistributable)
+data/*
+!data/README.md
+
+# Generated documents
+paper/
+
+# R
+.RData
+.Rhistory
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
+~$*

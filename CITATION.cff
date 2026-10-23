@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the article below."
+title: "Replication materials for: Winning where? National and provincial differences in perceptions of Pakistan's 2018 election"
+type: software
+authors:
+  - family-names: Naseem
+    given-names: Saima
+    email: reach@saimanaseem.com
+repository-code: "https://github.com/Saima-Naseem/winning-where-wvs-pakistan"
+license: MIT
+date-released: 2026-10-14
+keywords:
+  - World Values Survey
+  - Pakistan
+  - electoral integrity
+  - winner-loser gap
+  - differential item functioning
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Naseem
+      given-names: Saima
+  title: "Winning where? National and provincial differences in perceptions of Pakistan's 2018 election"
+  journal: "Journal name"
+  year: 2026
